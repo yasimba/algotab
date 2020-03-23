@@ -2,6 +2,9 @@
 
 AlgoTab
 
+![recording](blog/recording.gif)
+
+
 ## Features
 
 - Get new question whenever a new tab is opened
@@ -13,4 +16,3 @@ AlgoTab
 ## Contribution
 
 Suggestions and pull requests are welcomed!
-
