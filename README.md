@@ -8,7 +8,7 @@ AlgoTab
 
 ## Install
 
-[**Chrome** extension]() 
+[https://chrome.google.com/webstore/detail/algotab/bdbdkaldlokgnidglfhfdiecbmnimdne]() 
 
 ## Contribution
 
